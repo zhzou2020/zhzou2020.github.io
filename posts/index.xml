@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Zhuojin ZOU</title>
+    <link>https://zhzou2020.github.io/posts/</link>
+    <description>Recent content in Posts on Zhuojin ZOU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 16 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://zhzou2020.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Words</title>
+      <link>https://zhzou2020.github.io/posts/words/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhzou2020.github.io/posts/words/</guid>
+      <description>Navigation Poems
+Life
+Love
+Work
+Poems The Road Not taken by Robert Frost
+Two roads diverged in a yellow wood,
+And sorry I could not travel both
+And be one traveler, long I stood
+And looked down one as far as I could
+To where it bent in the undergrowth;
+Then took the other, as just as fair,
+And having perhaps the better claim,
+Because it was grassy and wanted wear;</description>
+    </item>
+    
+  </channel>
+</rss>
